@@ -58,6 +58,6 @@ public class CustomList extends ArrayAdapter<City> {
     }
 
     public Boolean hasCity() {
-//        return !cities.isEmpty();
+        return !cities.isEmpty();
     }
 }
